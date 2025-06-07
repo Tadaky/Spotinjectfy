@@ -8,3 +8,5 @@ To navigate through the script options, use the numbers shown in the menu — ty
 ![Preview](screenshot.png)
 
 The internal links point to official sources: [Spicetify](https://spicetify.app) and [SpotX](https://github.com/amd64fox/SpotX).
+
+**[Download Spotinjectfy.bat here](https://github.com/Tadaky/Spotinjectfy/releases/latest)**
